@@ -13,4 +13,4 @@
 
 ## Примерный вид
 
-[!Scrrenshot of menu bar](screenshot.png)
+![Scrrenshot of menu bar](screenshot.png)
